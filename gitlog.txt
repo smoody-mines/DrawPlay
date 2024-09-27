@@ -1,3 +1,39 @@
+commit 02b30f10f1388b713bdf6c00a6e7a2aee2733a4d
+Author: jslopey <jamesslopey@yahoo.com>
+Date:   Fri Sep 27 12:38:49 2024 -0600
+
+    Changed eye color to red
+
+commit ea011313aef97ed0277d3e764ca9aba1bc4cde40
+Author: Sean Moody <seanmo1211@gmail.com>
+Date:   Fri Sep 27 12:38:00 2024 -0600
+
+    cahnged text color to blue
+
+commit ee22943f6c67a2f142e7fd4f065bbde2e3b8deb2
+Author: Sean Moody <seanmo1211@gmail.com>
+Date:   Fri Sep 27 12:36:09 2024 -0600
+
+    changed cat color to blue
+
+commit fb4a5b2e04f20d333e0a7a564c0adee2e40cc26b
+Author: jslopey <jamesslopey@yahoo.com>
+Date:   Fri Sep 27 12:34:28 2024 -0600
+
+    EYE_HEIGHT changed to 15
+
+commit bc11105dfc4b2a862c88a8d7b095a67058a66be4
+Author: Sean Moody <seanmo1211@gmail.com>
+Date:   Fri Sep 27 12:32:45 2024 -0600
+
+    decreased EYE_WIDTH
+
+commit 7e106fbce50196bb27a4c724f6acd2da3a9c8136
+Author: jslopey <jamesslopey@yahoo.com>
+Date:   Fri Sep 27 12:28:36 2024 -0600
+
+    Changed frame size to 500x500
+
 commit f15a56ac498764c38d6d61d254f7f89fd9bcc1a8
 Author: Sean Moody <seanmo1211@gmail.com>
 Date:   Fri Sep 27 12:23:21 2024 -0600
